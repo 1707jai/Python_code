@@ -1,6 +1,6 @@
 import numpy as np
 
-arr=np.ones((5,5),dtype=int) # only for digit 1
+arr=np.ones((6,6),dtype=int) # only for digit 1
 print(arr)
 print("\n")
 
