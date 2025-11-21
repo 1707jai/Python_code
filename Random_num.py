@@ -16,4 +16,4 @@ filtered =arr[arr >mean_val]
 print("\n values greater than mean :\n ",filtered)
 
 sorted_desc= np.sort(filtered)[::-1]
-print("\n sorted in descending prder ;\n",sorted_desc)
+print("\n sorted in descending order ;\n",sorted_desc)
