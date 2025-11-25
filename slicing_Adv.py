@@ -34,3 +34,7 @@ print("\n",arr2[:, 2]) #print 3rd column
 print("\n",arr2[2:, :]) #print last 2nd row
 
 print("\n",arr2[::-1 , ::-1]) #reverse whole matrix
+
+print("\t","\n",arr2[arr2 % 2!= 0]) #odd in whole matrix
+
+print("\t","\n",arr2[arr2 % 2!= 0])  #even in whole matrix
