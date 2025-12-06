@@ -17,3 +17,5 @@ print(price,"\n",quantity,"\n")
 c=(np.cumprod([price,quantity],axis = 0)) 
 
 print(c[1].sum())
+
+print("-----------------------------------")
