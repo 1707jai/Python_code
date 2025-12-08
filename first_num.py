@@ -13,7 +13,11 @@ arr = np.array([[10,20,30,40],[50,60,70,80],[20,40,60,80]])
 
 #print(np.array(arr.sum()))
 
+<<<<<<< HEAD
 print(arr.mean())#mean
+=======
+print(np.array(arr.mean()))#mean
+>>>>>>> 03f631de80dc3038030031379063847454bd7fb7
 
 print(stats.mode(arr,axis=1,keepdims= True))#mode
 #print(stats.mode(arr))

@@ -39,6 +39,10 @@ print("\n boolean functions")
 
 print("\t","\n",arr2[arr2 % 2!= 0]) #odd in whole matrix
 
+<<<<<<< HEAD
 print("\t","\n",arr2[arr2 % 2!= 0])  #even in whole matrix
 
 print(arr2.mean(axis=0))
+=======
+print("\t","\n",arr2[arr2 % 2!= 0])  #even in whole matrix
+>>>>>>> 03f631de80dc3038030031379063847454bd7fb7
